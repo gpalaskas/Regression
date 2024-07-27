@@ -1,2 +1,2 @@
-# Machine Learning Project
-# Regression: Diabetes dataset
+# Machine Learning Project / Regression: Diabetes dataset
+
